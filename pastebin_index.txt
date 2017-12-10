@@ -1,0 +1,18 @@
+disk/source:
+distributor https://pastebin.com/pdHSeehF
+extract https://pastebin.com/AKWhg5Jb
+netware https://pastebin.com/UQp2cXGi
+newlib https://pastebin.com/KLdnzU9v
+profile https://pastebin.com/SpN9BdT9
+upd https://pastebin.com/KeiQWzmM
+disk/build:
+release https://pastebin.com/jdUVuBnx
+disk/tools:
+make https://pastebin.com/h4kNsiw5
+merge https://pastebin.com/wMvZ7dDn
+tryme https://pastebin.com/PQcUGqLw
+extract https://pastebin.com/AKWhg5Jb
+disk/server:
+diskmaster https://pastebin.com/ri04Wme6
+netware https://pastebin.com/UQp2cXGi
+screen 
